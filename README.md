@@ -5,7 +5,7 @@
 [![Listen to A Little Piece Of Heaven](https://img.shields.io/badge/A7X-A%20Little%20Piece%20Of%20Heaven-00FF41?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/watch?v=KVjBCT2Lc94)
 # 🤔 About me:
 - 🐇 Following the white rabbit
-- 🐈 Cat dad 😻
+- 😻 Cat lovers
 - 🐛 Python Enthusiast
 - 👨🏻‍💻 Full-Stack Developer
 - 💊 Coding the Matrix
