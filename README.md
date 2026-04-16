@@ -1,4 +1,4 @@
-## Hello world 👋
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&width=435&lines=Full-Stack+Developer;Identity:+IG.STORE;Based+in+Indonesia;Thanks+for+dropping+by!;Don't+forget+to+grab+a+coffee...)](https://git.io/typing-svg)
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ### 🎵 Now Playing:
