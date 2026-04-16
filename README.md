@@ -20,7 +20,7 @@
 - **IG.STORE**: Advanced tracking and analytics tools.
 - **MLBB BOT**: Automated bot for full account data verification.
 - **MCGG BOT**: Bot for verifying initial account creation details.
-- **DOWNLOAD VIDIO/MP3 ALLPLATFORM TIKTOK, YOUTUBE, FACEBOOK, INSTAGRAM**; Tools download allplatform one click
+- **DOWNLOAD VIDIO/MP3 ALLPLATFORM TIKTOK, YOUTUBE, FACEBOOK, INSTAGRAM**; Tools download allplatform one click.
 
 ### 🛠 Full-Stack Tech Stack & Systems:
 
