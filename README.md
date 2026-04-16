@@ -21,7 +21,7 @@
 - **MLBB BOT**: Automated bot for full account data verification.
 - **MCGG BOT**: Bot for verifying initial account creation details.
 - **DOWNLOAD VIDIO/MP3 ALLPLATFORM TIKTOK, YOUTUBE, FACEBOOK, INSTAGRAM** : Tools download allplatform one click.
-- **Donate platform**: Donate all Platform anti comment online gambling links
+- **Donate platform**: Donate all Platform anti comment online gambling links.
 
 ### 🛠 Full-Stack Tech Stack & Systems:
 
